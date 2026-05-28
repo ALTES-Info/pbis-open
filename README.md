@@ -2,19 +2,6 @@
 
 PowerBroker Identity Services Open
 
-⚠️ Repository Preservation Notice
-
-This repository is an archival clone of:
-
-https://github.com/robin-liu-1983/pbis-open
-
-At the time of archival, no source code, commit history, branches, tags,
-or project files were intentionally modified.
-
-Except for archival and informational notices such as this section,
-this repository remains identical to the upstream source at the time
-it was cloned.
-
 ## Original Project Description
 
 PowerBroker Identity Services Open has several goals:
