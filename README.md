@@ -2,8 +2,6 @@
 
 PowerBroker Identity Services Open
 
-[!WARNING]
-
 ⚠️ Repository Preservation Notice
 
 This repository is an archival clone of:
@@ -17,7 +15,7 @@ Except for archival and informational notices such as this section,
 this repository remains identical to the upstream source at the time
 it was cloned.
 
-Original Project Description
+## Original Project Description
 
 PowerBroker Identity Services Open has several goals:
 
